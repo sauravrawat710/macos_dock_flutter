@@ -30,7 +30,6 @@ class MyApp extends StatelessWidget {
                 child: Container(
                   height: 64 * scale,
                   width: 64 * scale,
-                  margin: const EdgeInsets.symmetric(horizontal: 4),
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(12),
                   ),
